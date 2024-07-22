@@ -134,7 +134,7 @@
 
     #navbar a{
         font-size: 1rem;
-        padding: 2rem;
+        padding: 1rem;
     }
 
     .welcome-content h1{
@@ -182,8 +182,8 @@
     }
 
     #navbar a{
-        font-size: 0.8rem;
-        padding: 0.8rem;
+        font-size: 1rem;
+        padding: 0.5rem;
     }
 
     .welcome-content h1{
