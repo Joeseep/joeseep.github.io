@@ -84,7 +84,7 @@
     border-radius: 10px;
     max-width: 320px;
     height: 300px;
-    
+    object-fit: fill;
 }
 
 .project-tile a{
